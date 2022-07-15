@@ -52,6 +52,7 @@ Click a link to jump to the appropriate section. Both sections are organized alp
 * AppZapp - http://www.appzapp.net/en/app-review-request/
 * Arctic Startup - http://arcticstartup.com/
 * Awesome Indie - https://awesomeindie.com
+* Baby Development - http://der-kunstmaler.com/
 * Beta Bound - http://www.betabound.com/announce/
 * Beta Page - https://betapage.co/
 * Beta Testing - https://betatesting.com/beta-testing
